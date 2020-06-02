@@ -1,0 +1,10 @@
+package generic;
+
+public class Driver {
+
+	public static void main(String[] args)
+	{
+		Car newCar = new Car(); 
+	}
+	
+}

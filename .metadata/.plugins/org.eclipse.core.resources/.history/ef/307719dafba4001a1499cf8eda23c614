@@ -1,0 +1,9 @@
+package holder;
+
+public class InvalidHealthValueException extends Exception {
+
+	public InvalidHealthValueException(String message) {
+		super(message);
+	}
+	
+}

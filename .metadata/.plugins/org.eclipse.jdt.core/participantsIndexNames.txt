@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1967268145.index
+\eZoo\src
+C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1931910334.index
+\eZoo\src

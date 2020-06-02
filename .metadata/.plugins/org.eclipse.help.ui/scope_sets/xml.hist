@@ -1,0 +1,8 @@
+#Tue Apr 07 14:44:48 EDT 2020
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+org.hibernate.eclipse.help.HibernateWiki.master=true
+expression=xml
+org.jboss.tools.developer.search.master=true

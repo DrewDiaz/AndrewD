@@ -1,0 +1,12 @@
+package holder;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		
+		Hero newHero = new Hero("Flash", "Fast Boy!", 100, true);
+		System.out.println(newHero);
+		Hero newHero2 = new Hero("Flash", "Fast Boy!", 100, true);
+	}
+	
+}
