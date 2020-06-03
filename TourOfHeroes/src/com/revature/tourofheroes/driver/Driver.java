@@ -1,0 +1,15 @@
+package com.revature.tourofheroes.driver;
+
+import com.revature.tourofheroes.models.Hero;
+import com.revature.tourofheroes.exceptions.InvalidHealthValueException;
+import com.revature.tourofheroes.menu.MainMenu;
+
+public class Driver {
+
+	public static void main(String[] args)  {
+		
+		MainMenu menu = new MainMenu();
+	
+	
+	}
+}

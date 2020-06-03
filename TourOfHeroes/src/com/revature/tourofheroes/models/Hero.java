@@ -78,6 +78,8 @@ public class Hero {
 	}
 
 	public void setName(String name) {
+		//check if the name is numbers
+		if(name.isEmpty()) throw new IllegalArgumentException();
 		this.name = name;
 	}
 

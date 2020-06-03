@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.examples.ezoo.model.Animal"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.revature.tourofheroes.exceptions.InvalidHealthValueException"/>
 </qualifiedTypeNameHistroy>
