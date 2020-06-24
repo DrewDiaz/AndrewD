@@ -1,5 +1,0 @@
-package com.revature.tourofheroes.dao;
-
-public interface IHeroRepo {
-
-}

@@ -1,5 +1,11 @@
 INDEX VERSION 1.131
+C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\298544107.index
+\RESTDemo-BR3\src\main\java
+C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2495805945.index
+\trainer-code-master\Week1Java\Day1\HelloWorld\src
 C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1967268145.index
 \eZoo\src
+C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\908502622.index
+\ServletDemo\src\main\java
 C:\Users\Drew Diaz\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1931910334.index
 \eZoo\src

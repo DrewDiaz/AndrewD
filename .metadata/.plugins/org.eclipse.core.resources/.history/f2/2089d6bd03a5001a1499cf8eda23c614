@@ -1,7 +1,0 @@
-package com.revature.tourofheroes.service;
-
-public class HeroService {
-	public boolean createHero() {
-		Hero newHero = new Hero("Superman")
-	}
-}

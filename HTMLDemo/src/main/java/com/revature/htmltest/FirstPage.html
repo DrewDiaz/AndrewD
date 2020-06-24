@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+        contains meta data
+        Like what character set to use
+        The title of your tab/window/bookmark
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drew is the greatest!</title>
+     <!--Adding boostrap to my HTML-->
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <style>
+    
+    div ol header { background-color: lime; }
+    div > ol > li > section {background-color: green;}
+    a[target]{background-color: yellow;}
+        div{
+            font-family:  Helvetica, sans-serif,Arial;
+        }
+        body{
+            background-color: aliceblue;
+        }
+    </style>
+    <link rel="stylesheet" href="helloweb.css">
+</head>
+<body>
+    <!--
+        Contains the actual content of your webpage
+        Like the stuff to fill the white space
+        what your end user interacts with
+    -->
+    <h1 class="jumbotron">Drew Diaz!</h1>
+   
+ 
+    <div id = "attributeID" class = "container">
+        <h2>
+            General Info
+        </h2>
+        <p class = "attribute">
+        Some people might think that Drew is <b>LAME</b><br/>
+        But really he's <i>super awesome!</i>    
+        </p>
+    </div>
+    <div class="container">
+        <h1>The FACTS</h1>
+        <div class="csstalk container">
+            <p>
+                First off, I couldn't possibly write all the great stuff about this cool man but I can give you the 
+                info on how he handles HTML.
+            </p>
+            <ol>
+                <header>Here's the Haps</header>
+                
+                <li>
+                    Child Descendant
+                    <section>
+                    <ul>
+                        <li>
+                            BOOM! I BET YOU DIDN'T EXPECT THE DESCENDANT TO BE THE TITLE OF THIS SECTION
+                        </li>
+                    	<li>
+                    	Don't blink or you might miss the next example!
+                    	</li>
+                    </ul>
+                    </section>
+                </li>
+                <li>
+                    WAIT HOW DID YOU
+                    <section>
+                    <ul>
+                        <li>
+                            THAT'S RIGHT YOU'RE ALREADY IN THE NEXT EXAMPLE
+                        </li>
+                        <li>
+                        	This Child only selects lines under the section type under other cool parameters,
+                        	while the descendant selected everything listed under header!
+                        </li>
+                    </ul>
+                    </section>
+                    <li>
+                    Now that I'm out of that mess, click below to the <i>attribute selected</i> link to go to
+                    the second page of my epic 2000's blog. You Rock!
+                 	</li>
+                </li>
+                
+            </ol>
+            <a href="SecondPage.html"target="_blank">CLICK HERE!</a>
+        </div>
+        
+       </div>
+</body>
+</html>

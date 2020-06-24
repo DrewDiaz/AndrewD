@@ -1,9 +1,0 @@
-package com.revature.tourofheroes.exceptions;
-
-public class InvalidHealthValueException extends Exception {
-
-	public InvalidHealthValueException() {
-		super();
-	}
-	
-}
